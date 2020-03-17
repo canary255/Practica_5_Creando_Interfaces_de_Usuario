@@ -12,7 +12,7 @@ Para esta práctica de Creando Interfaces de Usuario, se va a trabajar en el uso
 - Posteriormente se crea 2 esferas mas pequeñas, que representarán el sol y la luna, donde estarán rotando constantemente, simulando como si fuera de día y de noche.
 - Tras crear todo esto, se jugará con ellos para cuando salga el sol, se deje el cielo de dia, y cuando aparezca la luna, se deje el cielo de noche:
   - Con fill(r,g,b, ***opacity***) va a hacer que una de las esferas (exactamente la de día) pueda tener opacidad, así, que cuando se haga de noche, la haremos transparente.
--Modificamos la cámara para que solo tuviera movimiento dentro de la esfera, restringiendo libertad para que no saliera de esta.
+- Modificamos la cámara para que solo tuviera movimiento dentro de la esfera, restringiendo libertad para que no saliera de esta.
 - Una vez hecho esto, procedemos a crear las figuras y jugar con la luz:
   - La figura creada es de un personaje de animación japonesa llamado **Saitama** viniendo de la serie **One Punch Man**. Se ha tenido que hacer la figura casi al estilo **Lego** para poder añadir texturas correctamente. También se ha añadido unos monstruos que le va a atacar a las espaldas para adornar un poco más el entorno.
   ```
